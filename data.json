@@ -1,0 +1,33 @@
+
+{
+"Psychedelic Rock":[
+{"Song":"Time","Artist":"Pink Floyd","Instruments":["Guitar","Bass","Drums","Keyboard"]},
+{"Song":"Money","Artist":"Pink Floyd","Instruments":["Guitar","Bass","Drums","Keyboard"]},
+{"Song":"Us and Them","Artist":"Pink Floyd","Instruments":["Guitar","Bass","Drums","Keyboard"]},
+{"Song":"Any Colour You Like","Artist":"Pink Floyd","Instruments":["Guitar","Bass","Drums","Keyboard"]}
+],
+"Funk":[
+{"Song":"P-Funk (Wants to Get Funked Up)","Artist":"Parliament","Instruments":["Bass","Drums","Keyboard"]},
+{"Song":"Mothership Connection (Star Child)","Artist":"Parliament","Instruments":["Guitar","Bass","Drums","Keyboard"]},
+{"Song":"Unfunky UFO","Artist":"Parliament","Instruments":["Guitar","Bass","Drums","Keyboard"]},
+{"Song":"Give Up the Funk","Artist":"Parliament","Instruments":["Bass","Drums","Keyboard"]}
+],
+"Jazz":[
+{"Song":"So What","Artist":"Miles Davis","Instruments":["Bass","Drums","Keyboard"]},
+{"Song":"Freddie Freeloader","Artist":"Miles Davis","Instruments":["Bass","Drums","Keyboard"]},
+{"Song":"Blue in Green","Artist":"Miles Davis","Instruments":["Bass","Drums","Keyboard"]},
+{"Song":"All Blues","Artist":"Miles Davis","Instruments":["Bass","Drums","Keyboard"]}
+],
+"Hip-Hop":[
+{"Song":"The Next Movement","Artist":"The Roots","Instruments":["Bass","Drums","Keyboard"]},
+{"Song":"The Spark","Artist":"The Roots","Instruments":["Bass","Drums","Keyboard"]},
+{"Song":"Dynamite!","Artist":"The Roots","Instruments":["Bass","Drums"]},
+{"Song":"You Got Me","Artist":"The Roots","Instruments":["Guitar","Bass","Drums","Keyboard"]}
+],
+"Indie Rock":[
+{"Song":"Is This It","Artist":"The Strokes","Instruments":["Guitar","Bass","Drums"]},
+{"Song":"The Modern Age","Artist":"The Strokes","Instruments":["Guitar","Bass","Drums"]},
+{"Song":"Hard to Explain","Artist":"The Strokes","Instruments":["Guitar","Bass","Drums"]},
+{"Song":"Trying Your Luck","Artist":"The Strokes","Instruments":["Guitar","Bass","Drums"]}
+]
+}
